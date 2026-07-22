@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-p40590.keitaro-tech-rtb.online/sitemap.xml
